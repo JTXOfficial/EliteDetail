@@ -1,5 +1,9 @@
 # Car Detailing Template: Edit, Host with Netlify, & Use EmailJS
 
+# Demo
+
+[Live Demo](https://indigo-laurice-1.tiiny.site)
+
 This guide will help you:
 - Download the project from GitHub
 - Edit your project files
